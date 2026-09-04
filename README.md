@@ -28,6 +28,10 @@ Aqui voy a cargar los desarrollo hechos durante el curso de telematicos.
 
 [Ir a google] (www.google.com)
 
+
+$$
+y=a+1+x^2
+$$
 >[!WARNING]
 >Esto es importante
 
