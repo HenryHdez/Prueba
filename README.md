@@ -28,4 +28,5 @@ Aqui voy a cargar los desarrollo hechos durante el curso de telematicos.
 
 [Ir a google] (www.google.com)
 
-<font color=red> texto de color rojo </font>
+[!WARNING]
+-Esto es importante
