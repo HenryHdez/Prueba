@@ -3,7 +3,7 @@ Aqui voy a cargar los desarrollo hechos durante el curso de telematicos.
 ## Subtitulos
 
 **texto en negrillo**
-*texto en cursiva¨*
+*texto en cursiva*
 
 ```text
 .
@@ -27,7 +27,5 @@ Aqui voy a cargar los desarrollo hechos durante el curso de telematicos.
 ```
 
 [Ir a google] (www.google.com)
-<p "style=color:blue">
-Esto es un parrafo en 
-mi repositorio
-</p>
+
+<span style = "color:red;"> texto de color rojo </span>
