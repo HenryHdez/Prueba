@@ -30,3 +30,8 @@ Aqui voy a cargar los desarrollo hechos durante el curso de telematicos.
 
 >[!WARNING]
 >Esto es importante
+
+>[!IMPORTANT]
+>Esto es de color rojo
+
+><font color=red> Texto de color rojo </font>
