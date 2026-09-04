@@ -28,4 +28,4 @@ Aqui voy a cargar los desarrollo hechos durante el curso de telematicos.
 
 [Ir a google] (www.google.com)
 
-<span style = "color:red;"> texto de color rojo </span>
+<font color=red> texto de color rojo </font>
