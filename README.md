@@ -28,5 +28,5 @@ Aqui voy a cargar los desarrollo hechos durante el curso de telematicos.
 
 [Ir a google] (www.google.com)
 
-[!WARNING]
--Esto es importante
+>[!WARNING]
+>Esto es importante
